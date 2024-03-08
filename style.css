@@ -3,10 +3,10 @@
 #card {
    height:400px;
    width:700px;
-   margin:5em auto;
+   margin:3em auto;
    position: fixed;
   top: 50px;
-   left: 20%;
+   left: 07%;
    display:flex;
    visibility:hidden;
 }
